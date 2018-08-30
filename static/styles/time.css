@@ -1,0 +1,27 @@
+body{
+	background-color: #F4F4F4
+}
+h1{
+	color: #FFFFFF;
+	font-size: 150px;
+}
+.title{
+	background-color: #373737;
+	text-align: center;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 150px;
+}
+.timeline
+{
+	float:left;
+	width: 500px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+.common
+{
+	float:right;
+	width: 500px;
+	height: 800px;
+	border-radius: 20px 0 0 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}

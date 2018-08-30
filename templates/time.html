@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/time.css') }}">
+	</head>
+	<body>
+		<div class="title">
+			<h1> {{inp}} </h1>
+		</div>
+		<div class="timeline">
+			<ul>
+				{%for i in result_date%}
+				<il >
+					{{i[2]}}<br>
+					{{i[0]}}<br>
+					<br>
+				</il>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="common">
+			<p> Important words </p>
+			<ul>
+				{%for i in common%}
+				<il >
+					{{i[0]}}<br>
+					<br>
+				</il>
+				{% endfor %}
+			</ul>
+	</body>
+</html>

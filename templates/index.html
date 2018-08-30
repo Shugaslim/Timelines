@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/index.css') }}">
+	</head>
+	<body>
+		<div class="Main">
+			<div class="Title">
+				<h1>TMLNZ</h1>
+			</div>
+			<div class="formstuff">
+				<form action = "/list" method="post">
+					<input type="text" name="search" class ="search"/> 
+					<button type="submit" value="value" name="submit" class="submit"> Go! </button>
+				</form>
+			</div>
+		</div>
+	</body>
+</html>
