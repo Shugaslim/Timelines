@@ -1,55 +1,62 @@
 import wikipedia
-import nltk
+import spacy
+nlp = spacy.load('en_core_web_sm')
 import re
 import operator
+from word2number import w2n
 
 def retrieve_Sents(sents):
 	finalSents = []
 	for i in sents:
-		tokens = nltk.word_tokenize(i)
-		for w in tokens:
-			w.lower()
-		res = isDate(tokens)
+		res = isDate_Spacy(i)
 		if res[0]:
-			result = (i, res[1])
-			finalSents.append(result)
+			for d in res[1]:
+				result = (i, d.text)
+				finalSents.append(result)
 	return finalSents
 
-def isDate(sent):
-	for i in range(1, len(sent)):
-		if sent[i].isdigit() and len(sent[i]) <= 4:
-			if sent[i-1] == 'on' or sent[i-1] == 'in' or sent[i-1] == 'until':
-				if len(sent[i]) > 3:
-					if sent[i+1] == "ce" or sent[i+1] =="ad" or sent[i+1] == "bc" or sent[i+1] == "bce":
-						return (True, sent[i], sent[i+1])
-					else:
-						return (True, sent[i], "")
- 				if len(sent[i]) <= 3:
-					if sent[i+1] == "ce" or sent[i+1] =="ad" or sent[i+1] == "bc" or sent[i+1] == "bce":
-						return (True, sent[i], sent[i+1])
-					else:
-						return (True, sent[i], "")
-	return (False, sent[i])
+def isDate_Spacy(sent):
+	doc = nlp(sent)
+	ent_dates = []
+	numbers="0123456789"
+
+	for ent in doc.ents:
+		if ent.label_ == "DATE":
+			ent_dates.append(ent)
+	
+	dates = []
+	for i in ent_dates:
+		if i.text.isdigit():
+			dates.append(i)
+		else:
+			continue
+		
+
+	if len(dates) > 0:
+		return (True, dates)
+	else:
+		return (False, [])
 
 
 
-def common_tokens(token):
-	pos_tok = nltk.pos_tag(token)
-	ProperToken = []
-	for i in pos_tok:
-		if i[1] == 'NNP' or i[1] == 'NNPS':
-			ProperToken.append(i[0])
+def common_tokens(input):
+	page = wikipedia.page(input)
+	pageC = page.content
+	doc = nlp(pageC)
+	ProperToken = {}
+	for i in doc.ents:
+		if i.text in ProperToken.keys():
+			ProperToken[i.text] += 1.0
+		else:
+			ProperToken[i.text] = 1.0
 
-	legth = len(ProperToken)
-	freq = nltk.FreqDist(ProperToken)
-	most_comm_50 = freq.most_common(50)
+	length = len(ProperToken.keys())
+	for i in ProperToken:
+		ProperToken[i] /= float(length)
+	
+	Sorted_PT = sorted(ProperToken.items(), key=lambda x:x[1], reverse=True)
 
-	common_token = []
-	for i in most_comm_50:
-		 common_token1 = (i[0], (float(i[1]) /float(legth)))
-		 common_token.append(common_token1)
-
-	return common_token
+	return Sorted_PT
 
 
 def analyze(common, sents1):
@@ -57,13 +64,10 @@ def analyze(common, sents1):
 	for i in sents1:
 		weight = 0
 		year = 0
-		tokens = nltk.word_tokenize(i[0])
-		for j in tokens:
-			for k in common:
-				if (j == k[0]):
-					weight += 1000*float(k[1])
-					year = int(i[1])
-
+		for j in common:
+			if j[0] in i[0]:
+				weight += 1000*j[1]
+		year = int(i[1])
 		result = (i[0], weight, year)
 		finalList.append(result)
 	return finalList
@@ -71,22 +75,8 @@ def analyze(common, sents1):
 def parse(input):
 	page = wikipedia.page(input)
 	pageC = page.content
-	pageFinal = re.sub('=+', "", pageC) 
-	sents = nltk.sent_tokenize(pageFinal)
+	doc = nlp(pageC)
+	sents = []
+	for s in doc.sents:
+		sents.append(s.text)
 	return sents
-
-def tokenize(input):
-	page = wikipedia.page(input)
-	pageC = page.content
-	pageFinal = re.sub('=+', "", pageC) 
-	sents = nltk.sent_tokenize(pageFinal)
-	token = nltk.word_tokenize(pageFinal)
-	return token
-
-
-
-
-
-
-
-
