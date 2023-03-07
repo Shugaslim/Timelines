@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from EventCollect import retrieve_Sents, common_tokens, analyze, parse, tokenize
+from EventCollect import retrieve_Sents, common_tokens, analyze, parse
 import operator
 app = Flask(__name__)
 
