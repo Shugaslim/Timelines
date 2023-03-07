@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from EventCollect import retrieve_Sents, common_tokens, analyze, parse, tokenize
+from EventCollect import retrieve_Sents, common_tokens, analyze, parse
 import operator
 app = Flask(__name__)
 
@@ -12,9 +12,8 @@ def list():
 	if request.method == 'POST':
 		inp = request.form["search"]
 	sents = parse("History of " + inp)
-	token = tokenize(inp)
+	common = common_tokens("History of " + inp)
 	finalSents = retrieve_Sents(sents)
-	common = common_tokens(token)
 	result = analyze(common, finalSents)
 
 	result.sort(key = operator.itemgetter(1), reverse=True)
