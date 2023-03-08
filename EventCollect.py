@@ -1,36 +1,35 @@
 import wikipedia
 import spacy
 nlp = spacy.load('en_core_web_sm')
-import re
-import operator
-from word2number import w2n
+import time
 
-def retrieve_Sents(sents):
+
+def retrieve_Sents(sents, nO):
 	finalSents = []
 	for i in sents:
-		res = isDate_Spacy(i)
+		res = isDate_Spacy(i, nO)
 		if res[0]:
 			for d in res[1]:
 				result = (i, d.text)
 				finalSents.append(result)
 	return finalSents
 
-def isDate_Spacy(sent):
+def isDate_Spacy(sent, numOnly):
 	doc = nlp(sent)
 	ent_dates = []
-	numbers="0123456789"
 
 	for ent in doc.ents:
 		if ent.label_ == "DATE":
 			ent_dates.append(ent)
-	
 	dates = []
-	for i in ent_dates:
-		if i.text.isdigit():
-			dates.append(i)
-		else:
-			continue
-		
+	if numOnly:
+		for i in ent_dates:
+			if i.text.isdigit():
+				dates.append(i)
+			else:
+				continue
+	else:
+		dates = ent_dates
 
 	if len(dates) > 0:
 		return (True, dates)
@@ -73,7 +72,11 @@ def analyze(common, sents1):
 	return finalList
 
 def parse(input):
-	page = wikipedia.page(input)
+	try:
+		page = wikipedia.page(title=input, pageid=None)
+	except:
+		return []
+
 	pageC = page.content
 	doc = nlp(pageC)
 	sents = []
