@@ -1,25 +1,25 @@
 ,X,y
 0,post-1992-1993,1992
-1,the early 3rd millennium,-3000
+1,the early 3rd millennium,-1
 2,the 6th-5th centuries,450
 3,the 2nd century,150
-4,season,
+4,season,-1
 5,AD 61,61
 6,AD 50).In the 3rd century AD,50
 7,the 5th century,400
-8,this era,
-9,this day,
-10,today,
+8,this era,-1
+9,this day,-1
+10,today,-1
 11,the 9th century,800
 12,1008,1008
-13,this dynasty,
+13,this dynasty,-1
 14,the 1860s,1860
 15,the 14th century,1300
 16,the late 15th century,1466
 17,around 1463,1463
 18,1490,1490
-19,the following decades,
-20,today,
+19,the following decades,-1
+20,today,-1
 21,the 1570s,1570
 22,1555,1555
 23,1725,1725
@@ -48,7 +48,7 @@
 46,1897,1897
 47,1897,1897
 48,1911,1911
-49,present-day,
+49,present-day,-1
 50,1911,1911
 51,1870,1870
 52,the 1900s,1905
@@ -63,1243 +63,1243 @@
 61,"November 8, 1917",1917
 62,March 1918,1918
 63,April 1918,1918
-64,May 17,
+64,May 17,-1
 65,"May 26, 1918",1918
-66,June 8,
+66,June 8,-1
 67,"June 27, 1918",1918
 68,October 1918,1918
-69,October 10,
-70,six months,
+69,October 10,-1
+70,six months,-1
 71,February 1919,1919
 72,"February 21, 1921",1921
-73,the eve,
+73,the eve,-1
 74,1920,1920
 75,"February 11, 1921",1921
-76,February 19,
-77,February 23 to March 7,
-78,March 4,
-79,May 21,
-80,December 16,
+76,February 19,-1
+77,February 23 to March 7,-1
+78,March 4,-1
+79,May 21,-1
+80,December 16,-1
 81,"December 13, 1922",1922
-82,30 December,
+82,30 December,-1
 83,"April 1, 1925 constitution",1925
 84,1924,1924
 85,1930,1930
 86,the 1924,1924
-87,years,
+87,years,-1
 88,December 1936,1936
 89,1937-38,1937
 90,1952,1952
 91,Between 1937 and 1953 tens of thousands,1937
 92,1926,1926
 93,1949,1949
-94,five-year,
-95,"2,700-year-old",
+94,five-year,-1
+95,"2,700-year-old",-1
 96,1949,1949
 97,1959,1959
 98,1992-93,1992
 99,1953,1953
-100,three decades,
-101,1978,
-102,That year,
-103,seven years,
-104,1990,
-105,the 1920s,
-106,1930s,
-107,the 1920s,
-108,the 1980s,
-109,the 1980s,
-110,the 1990s,
-111,between 2000 and 2019,
-112,the academic year 2020-2021,
-113,1979,
-114,2019,
-115,2019,
-116,1300,
-117,between 16 and 29,
-118,2019,
-119,1959,
-120,1959,
-121,1904,
-122,1904,
-123,1921,
-124,1931,
-125,the end of the 1980s,
-126,16 July 1989,
-127,several days,
-128,"the March 17, 1991",
-129,March 31,
-130,9 April 1991,
-131,December,
-132,weeks,
-133,January 1992,
-134,21 February 1992,
-135,Soviet-era,
-136,23 July 1992,
-137,about a,
-138,week,
-139,September,
-140,The year 1992,
-141,July 1993,
-142,the end of July,
-143,mid-September,
-144,ten days,
-145,27 September 1993,
-146,1994,
-147,1996,
-148,1999,
-149,1993,
-150,1994,
-151,between 16 and 60 years old,
-152,1996,
-153,the 1990s,
-154,1997,
-155,1999,
-156,1998,
-157,1998,
-158,daily,
-159,2004,
-160,1992-1993,
-161,2006,
-162,August 2008,
-163,2008,
-164,August 2008,
-165,24 October 2008,
-166,29 October 2008,
-167,1823,
-168,today,
-169,the early 18th century,
-170,1966,
-171,"at least 52,000 years ago",
-172,"34,000 years old",
-173,the months,
-174,as early as,
-175,present-day,
-176,present-day,
-177,between 2200 and 1700,
-178,the 6th century,
-179,the later 6th century,
-180,today,
-181,today,
-182,today,
-183,a year earlier,
-184,several centuries,
-185,present-day,
-186,' dynasty,
-187,the middle of the 2nd century,
-188,the 1st century,
-189,the 2nd century,
-190,the 4th century,
-191,the Gondopharid dynasty,
-192,present-day,
-193,the 1st century AD,
-194,their last few years,
-195,the Arsacid dynasty,
-196,the 3rd century,
-197,modern-day,
-198,the second half of the 4th century,
-199,the end of the,
-200,early 6th century,
-201,6th-century,
-202,summer,
-203,modern-day,
-204,the first half of the 5th century,
-205,the 6th century,
+100,three decades,-1
+101,1978,1978
+102,That year,-1
+103,seven years,-1
+104,1990,1990
+105,the 1920s,1925
+106,1930s,1935
+107,the 1920s,1925
+108,the 1980s,1985
+109,the 1980s,1985
+110,the 1990s,1995
+111,between 2000 and 2019,2000
+112,the academic year 2020-2021,2020
+113,1979,1979
+114,2019,2019
+115,2019,2019
+116,1300,1300
+117,between 16 and 29,16
+118,2019,2019
+119,1959,1959
+120,1959,1959
+121,1904,1904
+122,1904,1904
+123,1921,1921
+124,1931,1931
+125,the end of the 1980s,1987
+126,16 July 1989,1989
+127,several days,-1
+128,"the March 17, 1991",1991
+129,March 31,-1
+130,9 April 1991,1991
+131,December,-1
+132,weeks,-1
+133,January 1992,1992
+134,21 February 1992,1992
+135,Soviet-era,-1
+136,23 July 1992,1992
+137,about a,-1
+138,week,-1
+139,September,-1
+140,The year 1992,1992
+141,July 1993,1993
+142,the end of July,-1
+143,mid-September,-1
+144,ten days,-1
+145,27 September 1993,1993
+146,1994,1994
+147,1996,1996
+148,1999,1999
+149,1993,1993
+150,1994,1994
+151,between 16 and 60 years old,-1
+152,1996,1996
+153,the 1990s,1995
+154,1997,1997
+155,1999,1999
+156,1998,1998
+157,1998,1998
+158,daily,-1
+159,2004,2004
+160,1992-1993,1992
+161,2006,2006
+162,August 2008,2008
+163,2008,2008
+164,August 2008,2008
+165,24 October 2008,2008
+166,29 October 2008,2008
+167,1823,1823
+168,today,-1
+169,the early 18th century,1733
+170,1966,1966
+171,"at least 52,000 years ago",-1
+172,"34,000 years old",-1
+173,the months,-1
+174,as early as,-1
+175,present-day,-1
+176,present-day,-1
+177,between 2200 and 1700,-1
+178,the 6th century,500
+179,the later 6th century,533
+180,today,-1
+181,today,-1
+182,today,-1
+183,a year earlier,-1
+184,several centuries,-1
+185,present-day,-1
+186,' dynasty,-1
+187,the middle of the 2nd century,150
+188,the 1st century,50
+189,the 2nd century,100
+190,the 4th century,300
+191,the Gondopharid dynasty,-1
+192,present-day,-1
+193,the 1st century AD,50
+194,their last few years,-1
+195,the Arsacid dynasty,-1
+196,the 3rd century,200
+197,modern-day,-1
+198,the second half of the 4th century,333
+199,the end of the,-1
+200,early 6th century,533
+201,6th-century,500
+202,summer,-1
+203,modern-day,-1
+204,the first half of the 5th century,433
+205,the 6th century,500
 206,Middle Ages,
-207,the 3rd century,
-208,his 6th century,
-209,today,
-210,today,
-211,the 3rd century to the early 9th century,
-212,the year 1001,
-213,present-day,
-214,this dynasty,
-215,1030,
-216,today,
-217,1148,
-218,the early 20th century,
-219,1221,
-220,100 years later,
-221,the early 16th century,
-222,present-day,
-223,1381,
-224,1405,
-225,A century later,
-226,the next 300 years,
-227,the 16th century,
-228,1504,
-229,present-day,
-230,1526,
-231,the 16th century to the 17th century,
-232,1596,
-233,only 1646–47,
-234,1704,
-235,April 1709,
-236,Around four days later,
-237,Between 1710 and 1713,
+207,the 3rd century,200
+208,his 6th century,500
+209,today,-1
+210,today,-1
+211,the 3rd century to the early 9th century,200
+212,the year 1001,1001
+213,present-day,-1
+214,this dynasty,-1
+215,1030,1030
+216,today,-1
+217,1148,1148
+218,the early 20th century,1933
+219,1221,1221
+220,100 years later,-1
+221,the early 16th century,1500
+222,present-day,-1
+223,1381,1381
+224,1405,1405
+225,A century later,-1
+226,the next 300 years,-1
+227,the 16th century,1500
+228,1504,1504
+229,present-day,-1
+230,1526,1526
+231,the 16th century to the 17th century,1550
+232,1596,1596
+233,only 1646–47,1646
+234,1704,1704
+235,April 1709,1709
+236,Around four days later,-1
+237,Between 1710 and 1713,1710
 238,Two years later,
-239,1713,
-240,November 1715,
+239,1713,1713
+240,November 1715,1715
 241,about two years later,
-242,1722,
-243,1725,
-244,1727,
-245,1738,
-246,1729,
-247,the October 1729,
-248,1738,
-249,1738,
-250,19 June 1747,
+242,1722,1722
+243,1725,1725
+244,1727,1727
+245,1738,1738
+246,1729,1729
+247,the October 1729,1729
+248,1738,1728
+249,1738,1738
+250,19 June 1747,1747
 251,25-year-old,
-252,October 1747,
-253,1751,
-254,1761,
-255,October 1772,
-256,1793,
-257,1757,
-258,Barakzai dynasty,
-259,1826,
-260,the Barakzai dynasty,
-261,1837,
-262,the 19th century,
-263,1863,
-264,1863 to 1866,
-265,1868 to 1879,
-266,1901,
-267,1919,
-268,May to August 1919,
-269,August 1919,
-270,19 August,
-271,their Independence Day,
-272,the years,
-273,1925,
-274,1927,
-275,November 1928,
-276,15 October 1929,
-277,1 November of same year,
-278,1933,
-279,19-year-old,
-280,1933 to 1973,
-281,1946,
-282,1953,
-283,1963,
-284,1963,
-285,1973,
-286,1964,
-287,1967,
-288,"July 17, 1973",
-289,1964,
-290,February 1977,
-291,1978,
-292,1978–1989,
-293,28 April 1978,
-294,1 May,
-295,April 1992,
-296,March 1979,
-297,14 September,
-298,"May 28, 1978",
-299,December 1978,
-300,spring 1979,
-301,"December 27, 1979",
-302,two thousand,
-303,1989,
-304,1992,
-305,March 1989,
-306,three months,
-307,1992,
-308,weeks,
-309,two months,
-310,1992,
-311,2001,
-312,five years,
-313,the 9 year,
-314,days,
-315,1994,
-316,1994,
-317,1995,
-318,early 1995,
-319,1995,
-320,several months,
-321,"September 26, 1996",
-322,"September 27, 1996",
-323,"September 27, 1996",
-324,1996,
-325,November 2001,
-326,between 1996 and 2001,
-327,1998,
-328,1998,
-329,1996 to 2001,
-330,1997,
-331,1998,
-332,October 1996,
-333,September 2001,
-334,early 2001,
-335,the early 1990s,
-336,1999,
-337,early 2001,
+252,October 1747,1747
+253,1751,1751
+254,1761,1761
+255,October 1772,1772
+256,1793,1793
+257,1757,1757
+258,Barakzai dynasty,-1
+259,1826,1826
+260,the Barakzai dynasty,-1
+261,1837,1837
+262,the 19th century,1800
+263,1863,1863
+264,1863 to 1866,1863
+265,1868 to 1879,1868
+266,1901,1901
+267,1919,1919
+268,May to August 1919,1919
+269,August 1919,1919
+270,19 August,-1
+271,their Independence Day,-1
+272,the years,-1
+273,1925,1925
+274,1927,1927
+275,November 1928,1928
+276,15 October 1929,1929
+277,1 November of same year,-1
+278,1933,1933
+279,19-year-old,-1
+280,1933 to 1973,1933
+281,1946,1946
+282,1953,1953
+283,1963,1963
+284,1963,1963
+285,1973,1973
+286,1964,1964
+287,1967,1967
+288,"July 17, 1973",1973
+289,1964,1964
+290,February 1977,1977
+291,1978,1978
+292,1978–1989,1978
+293,28 April 1978,1978
+294,1 May,-1
+295,April 1992,1992
+296,March 1979,1979
+297,14 September,-1
+298,"May 28, 1978",1978
+299,December 1978,1978
+300,spring 1979,1979
+301,"December 27, 1979",1979
+302,two thousand,2000
+303,1989,1989
+304,1992,1992
+305,March 1989,1989
+306,three months,-1
+307,1992,1992
+308,weeks,-1
+309,two months,-1
+310,1992,1992
+311,2001,2001
+312,five years,-1
+313,the 9 year,-1
+314,days,-1
+315,1994,1994
+316,1994,1994
+317,1995,1995
+318,early 1995,1995
+319,1995,1995
+320,several months,-1
+321,"September 26, 1996",1996
+322,"September 27, 1996",1996
+323,"September 27, 1996",1996
+324,1996,1996
+325,November 2001,2001
+326,between 1996 and 2001,1996
+327,1998,1998
+328,1998,1998
+329,1996 to 2001,1996
+330,1997,1997
+331,1998,1998
+332,October 1996,1996
+333,September 2001,2001
+334,early 2001,2001
+335,the early 1990s,1993
+336,1999,1999
+337,early 2001,2001
 338,up to a year,
-339,9 September 2001,
-340,Two days later,
-341,September 11,
-342,December 2001,
-343,2002,
-344,the years,
-345,2009,
-346,2010,
-347,a period of two years,
-348,2009,
-349,the last decade,
-350,the decades,
-351,2009,
-352,2010,
-353,2011,
-354,October 2008,
-355,2010,
-356,early January,
-357,January 8,
-358,26 January 2010,
-359,a few weeks,
-360,March 2010,
-361,the end of 2010,
-362,daily,
-363,June 2010,
-364,2010,
-365,September 2010,
-366,May 2011,
-367,the same year,
-368,a few days ago,
-369,"October 16, 2011",
-370,November 2011,
-371,2014,
-372,2021,
-373,15 August 2021,
-374,7 September 2021,
-375,August 2021,
-376,October 2021,
-377,11 November 2021,
-378,2021,
-379,2016,
-380,1952,
-381,0-543-94714-9,
-382,Afghaun,
-383,1819,
-384,Third Century,
-385,2004-05-23,
-386,2005-03-15,
-387,2010-01-31,
-388,1972,
-389,1972,
-390,0-00-211042-3,
-391,1872,
-392,1971,
-393,0-576-03322-7,
-394,2020,
-395,1747,
-396,THREE,
-397,1873-9830,
-398,2019-11-02,
-399,"about 12,000 years ago",
-400,"at least 105,000 years ago",
-401,"11,000 years ago",
-402,as early as 9000,
-403,the Middle Ages,
-404,1492,
-405,the past 200 years,
-406,1900,
-407,the twentieth century,
-408,annual,
-409,"at least 105,000 years ago",
-410,"about 10,500 years ago",
-411,the 1st millennium AD,
-412,around 2000,
-413,the eighth millennium,
-414,2-row,
-415,the fifth millennium,
-416,"6,500 years ago",
-417,the 5th century BC to 2nd century AD,
-418,AD 535,
-419,6th century,
-420,1313,
-421,the 1st century,
-422,the 1st century AD,
-423,the late 2nd century,
-424,the 10th century,
-425,the 9th century,
-426,"8,200–13,500 years ago",
-427,several thousand years,
-428,this day,
-429,1557,
-430,the 19th century,
-431,winter,
-432,the 1970s,
-433,1980s,
-434,"nearly 5,000 years",
-435,the 1980s,
-436,"the preceding 5,000 years",
-437,summer,
-438,AD 900,
+339,9 September 2001,2001
+340,Two days later,-1
+341,September 11,2001
+342,December 2001,2001
+343,2002,2002
+344,the years,-1
+345,2009,2009
+346,2010,2010
+347,a period of two years,-1
+348,2009,2009
+349,the last decade,-1
+350,the decades,-1
+351,2009,2009
+352,2010,2010
+353,2011,2011
+354,October 2008,2008
+355,2010,2010
+356,early January,-1
+357,January 8,-1
+358,26 January 2010,2010
+359,a few weeks,-1
+360,March 2010,2010
+361,the end of 2010,2010
+362,daily,-1
+363,June 2010,2010
+364,2010,2010
+365,September 2010,2010
+366,May 2011,2011
+367,the same year,-1
+368,a few days ago,-1
+369,"October 16, 2011",2011
+370,November 2011,2011
+371,2014,2014
+372,2021,2021
+373,15 August 2021,2021
+374,7 September 2021,2021
+375,August 2021,2021
+376,October 2021,2021
+377,11 November 2021,2021
+378,2021,2021
+379,2016,2016
+380,1952,1952
+381,0-543-94714-9,-1
+382,Afghaun,-1
+383,1819,1819
+384,Third Century,200
+385,2004-05-23,2004
+386,2005-03-15,2005
+387,2010-01-31,2010
+388,1972,1972
+389,1972,1972
+390,0-00-211042-3,-1
+391,1872,1872
+392,1971,1971
+393,0-576-03322-7,-1
+394,2020,2020
+395,1747,1747
+396,THREE,-1
+397,1873-9830,-1
+398,2019-11-02,2019
+399,"about 12,000 years ago",-1
+400,"at least 105,000 years ago",-1
+401,"11,000 years ago",-1
+402,as early as 9000,-1
+403,the Middle Ages,-1
+404,1492,1492
+405,the past 200 years,-1
+406,1900,1900
+407,the twentieth century,1900
+408,annual,-1
+409,"at least 105,000 years ago",-1
+410,"about 10,500 years ago",-1
+411,the 1st millennium AD,500
+412,around 2000,2000
+413,the eighth millennium,-1
+414,2-row,-1
+415,the fifth millennium,-1
+416,"6,500 years ago",-1
+417,the 5th century BC to 2nd century AD,-1
+418,AD 535,535
+419,6th century,500
+420,1313,1313
+421,the 1st century,50
+422,the 1st century AD,50
+423,the late 2nd century,166
+424,the 10th century,900
+425,the 9th century,800
+426,"8,200–13,500 years ago",-1
+427,several thousand years,-1
+428,this day,-1
+429,1557,1557
+430,the 19th century,1800
+431,winter,-1
+432,the 1970s,1975
+433,1980s,1985
+434,"nearly 5,000 years",-1
+435,the 1980s,1985
+436,"the preceding 5,000 years",-1
+437,summer,-1
+438,AD 900,900
 439,every year,
-440,the 13th century,
-441,the 13th century,
-442,the 18th century,
-443,the 8th century to the 14th century,
-444,1492,
-445,the 16th century,
-446,the late 1500s,
-447,the late 1700s,
-448,between 1523 and 1623,
-449,Between the 17th century,
-450,the mid-19th century,
-451,1750,
-452,1720,
-453,1840,
-454,the mid-17th century,
-455,the 18th century,
-456,the mid 18th century,
-457,1701,
-458,1784,
-459,1730,
-460,1763,
-461,1789,
-462,1812,
-463,the 19th century,
-464,1843,
-465,1842,
-466,20th century,
-467,1901,
-468,1923,
-469,1910,
+440,the 13th century,1200
+441,the 13th century,1200
+442,the 18th century,1700
+443,the 8th century to the 14th century,700
+444,1492,1492
+445,the 16th century,1500
+446,the late 1500s,1566
+447,the late 1700s,1766
+448,between 1523 and 1623,1523
+449,Between the 17th century,1600
+450,the mid-19th century,1850
+451,1750,1750
+452,1720,1720
+453,1840,1840
+454,the mid-17th century,1650
+455,the 18th century,1700
+456,the mid 18th century,1750
+457,1701,1701
+458,1784,1784
+459,1730,1730
+460,1763,1763
+461,1789,1789
+462,1812,1812
+463,the 19th century,1800
+464,1843,1843
+465,1842,1842
+466,20th century,1900
+467,1901,1901
+468,1923,1923
+469,1910,1910
 470,the years,
-471,the 1930s,
-472,1959 to 1961,
-473,the past century,
-474,1950,
-475,2002,
-476,between 1967 and 2002,
-477,the 20th century,
-478,the 1920s,
-479,the 1990s,
-480,between the 1940s,
-481,the late 1970s,
-482,the late 1960s,
-483,the early 20th century,
-484,the 20th century,
-485,1966,
-486,35 years,
-487,only a decade,
-488,about a decade,
-489,1924,
-490,1940,
-491,1 February 2005,
-492,2011,
-493,2005,
-494,1999,
-495,1990,
-496,1993,
-497,2006,
-498,2008,
-499,2009,
-500,12000,
-501,2015,
-502,1977,
-503,1981,
-504,1997,
-505,1982,
-506,2013,
-507,1995,
-508,1921,
-509,1970,
-510,1995,
-511,2014,
-512,2000,
-513,1971,
-514,1959,
-515,1291130,
-516,2003,
-517,2012,
-518,1969,
-519,1999,
-520,1999,
-521,1986,
-522,2008,
-523,2010,
-524,1350–1850,
-525,1997,
-526,the 1930s,
-527,the 1950s,
-528,2012,
-529,1987,
-530,2007,
-531,154325999,
-532,the twentieth century,
+471,the 1930s,1935
+472,1959 to 1961,1959
+473,the past century,-1
+474,1950,1950
+475,2002,2002
+476,between 1967 and 2002,1967
+477,the 20th century,1900
+478,the 1920s,1925
+479,the 1990s,1995
+480,between the 1940s,1945
+481,the late 1970s,1976
+482,the late 1960s,1966
+483,the early 20th century,1933
+484,the 20th century,1900
+485,1966,1966
+486,35 years,-1
+487,only a decade,-1
+488,about a decade,-1
+489,1924,1924
+490,1940,1940
+491,1 February 2005,2005
+492,2011,2011
+493,2005,2005
+494,1999,1999
+495,1990,1990
+496,1993,1993
+497,2006,2006
+498,2008,2008
+499,2009,2009
+500,12000,-1
+501,2015,2015
+502,1977,1977
+503,1981,1981
+504,1997,1997
+505,1982,1982
+506,2013,2013
+507,1995,1995
+508,1921,1921
+509,1970,1970
+510,1995,1995
+511,2014,2014
+512,2000,2000
+513,1971,1971
+514,1959,1959
+515,1291130,-1
+516,2003,2003
+517,2012,2012
+518,1969,1969
+519,1999,1999
+520,1999,1999
+521,1986,1986
+522,2008,2008
+523,2010,2010
+524,1350–1850,1350
+525,1997,1997
+526,the 1930s,1935
+527,the 1950s,1955
+528,2012,2012
+529,1987,1987
+530,2007,2007
+531,154325999,-1
+532,the twentieth century,1900
 533,recent agrarian,
-534,1965,
-535,1925,
-536,1980,
-537,1996,
-538,1650–1980,
-539,2013,
-540,1538–1840,
-541,1990,
-542,1066,
-543,1986,
-544,1948,
-545,3,
+534,1965,1965
+535,1925,1925
+536,1980,1980
+537,1996,1996
+538,1650–1980,1650
+539,2013,2013
+540,1538–1840,1538
+541,1990,1990
+542,1066,1066
+543,1986,1986
+544,1948,1948
+545,3,3
 546,145099646,
-547,1700–1914,
-548,2014,
-549,AD 500–1850,
-550,1963,
-551,1978,
-552,2002,
-553,twentieth century,
-554,2011,
-555,1993,
-556,1983,
-557,7,
-558,1925,
-559,1933,
-560,2004,
-561,2002,
-562,2005,
-563,Two Centuries,
-564,4): 989–1024,
-565,2015,
-566,1960,
-567,1949,
-568,1981,
-569,2012,
-570,1970,
-571,1936,
-572,1972,
-573,1891,
-574,1960,
-575,1960,
-576,1960,
-577,July,
-578,August 1961,
-579,the early 1970s,
-580,the early 1960s,
-581,1974,
-582,1975,
-583,1974,
-584,2022,
-585,1960,
-586,1960,
-587,September 2022,
-588,August 1960,
-589,January 2010,
-590,15 December 2012,
-591,30 June 2005,
-592,July 2001,
-593,2005,
-594,September 2012.In 2004,
-595,29 August 2013,
-596,Two days earlier,
-597,27 August 2013,
-598,2020,
-599,October 2017.The,
-600,January 2014,
-601,yearly,
-602,yearly,
-603,2015,
-604,2015,
-605,2016,
-606,the following year,
-607,1989,
-608,2003,
-609,2010,
-610,2005,
-611,1990,
-612,2007.In December 2015,
-613,before 1983,
-614,1983,
-615,before 1983,
-616,2002,
-617,1981,
-618,1960,
-619,2002,
-620,2010,
-621,1 January 2008,
-622,2474,
-623,58,
-624,1997,
-625,2009,
-626,2003,
-627,0-7453-2030-9,
-628,60,
-629,2009,
-630,the 2nd millennium,
-631,the 10th century,
-632,the 3rd century,
-633,the 7th century,
-634,1099,
-635,200 years,
-636,1291,
-637,1517,
-638,1917,
-639,1948,
-640,between 1050 and,
+547,1700–1914,1700
+548,2014,2014
+549,AD 500–1850,500
+550,1963,1963
+551,1978,1978
+552,2002,2002
+553,twentieth century,1900
+554,2011,2011
+555,1993,1993
+556,1983,1983
+557,7,7
+558,1925,1925
+559,1933,1933
+560,2004,2004
+561,2002,2002
+562,2005,2005
+563,Two Centuries,-1
+564,4): 989–1024,989
+565,2015,2015
+566,1960,1960
+567,1949,1949
+568,1981,1981
+569,2012,2012
+570,1970,1970
+571,1936,1936
+572,1972,1972
+573,1891,1891
+574,1960,1960
+575,1960,1960
+576,1960,1960
+577,July,-1
+578,August 1961,1961
+579,the early 1970s,1973
+580,the early 1960s,1963
+581,1974,1974
+582,1975,1975
+583,1974,1974
+584,2022,2022
+585,1960,1960
+586,1960,1960
+587,September 2022,2022
+588,August 1960,1960
+589,January 2010,2010
+590,15 December 2012,2012
+591,30 June 2005,2005
+592,July 2001,2001
+593,2005,2005
+594,September 2012.In 2004,2012
+595,29 August 2013,2013
+596,Two days earlier,-1
+597,27 August 2013,2013
+598,2020,2020
+599,October 2017.The,2017
+600,January 2014,2014
+601,yearly,-1
+602,yearly,-1
+603,2015,2015
+604,2015,2015
+605,2016,2016
+606,the following year,-1
+607,1989,1989
+608,2003,2003
+609,2010,2010
+610,2005,2005
+611,1990,1990
+612,2007.In December 2015,2015
+613,before 1983,1983
+614,1983,1983
+615,before 1983,1983
+616,2002,2002
+617,1981,1981
+618,1960,1960
+619,2002,2002
+620,2010,2010
+621,1 January 2008,2008
+622,2474,-1
+623,58,58
+624,1997,1997
+625,2009,2009
+626,2003,2003
+627,0-7453-2030-9,-1
+628,60,60
+629,2009,2009
+630,the 2nd millennium,-1
+631,the 10th century,900
+632,the 3rd century,200
+633,the 7th century,600
+634,1099,1099
+635,200 years,-1
+636,1291,1291
+637,1517,1517
+638,1917,1917
+639,1948,1948
+640,between 1050 and,1050
 641,more than a century,
-642,the middle of the 9th century,
-643,the 10th,
-644,early 9th centuries,
-645,the 10th century,
-646,the 9th century,
-647,the middle of the 8th century,
-648,the 7th century,
-649,the last half of the 7th century,
-650,the eve of the end of the,
-651,centuries,
-652,the next century,
-653,the centuries,
-654,the 5th century,
-655,two centuries,
-656,the eve of the,
-657,The 2nd century,
-658,over two years,
-659,this era,
-660,the end of the 3rd century,
-661,the 4th century,
-662,the lunar year,
-663,the 4th century,
-664,the 5th century,
-665,the 7th century,
-666,1099,
-667,the early Middle Ages,
-668,centuries,
-669,the 7th century,
-670,8th century,
-671,between 6th and 11th century,
-672,The sixth century,
-673,the 11th century,
-674,almost 500 years,
-675,"the next 1,000 years",
-676,the 8th and 9th centuries,
-677,the end of the 11th century,
-678,the 11th century,
-679,the mid-ninth century,
-680,1071,
-681,1039,
-682,1033,
-683,1015,
-684,Between the 7th and 11th centuries,
-685,today,
-686,1099,
+642,the middle of the 9th century,850
+643,the 10th,900
+644,early 9th centuries,833
+645,the 10th century,900
+646,the 9th century,800
+647,the middle of the 8th century,750
+648,the 7th century,600
+649,the last half of the 7th century,666
+650,the eve of the end of the,-1
+651,centuries,-1
+652,the next century,-1
+653,the centuries,-1
+654,the 5th century,400
+655,two centuries,-1
+656,the eve of the,-1
+657,The 2nd century,100
+658,over two years,-1
+659,this era,-1
+660,the end of the 3rd century,266
+661,the 4th century,300
+662,the lunar year,-1
+663,the 4th century,300
+664,the 5th century,400
+665,the 7th century,600
+666,1099,1099
+667,the early Middle Ages,-1
+668,centuries,-1
+669,the 7th century,600
+670,8th century,700
+671,between 6th and 11th century,500
+672,The sixth century,500
+673,the 11th century,1000
+674,almost 500 years,-1
+675,"the next 1,000 years",-1
+676,the 8th and 9th centuries,700
+677,the end of the 11th century,1066
+678,the 11th century,1000
+679,the mid-ninth century,850
+680,1071,1071
+681,1039,1039
+682,1033,1033
+683,1015,1015
+684,Between the 7th and 11th centuries,600
+685,today,-1
+686,1099,1099
 687,a whole month,
-688,June–July,
-689,years,
-690,around 1160 and 1180,
-691,1165,
-692,1141,
-693,1187,
-694,another century,
-695,the day,
-696,"1,600 years earlier",
-697,1211,
-698,the 13th-century,
-699,1217,
-700,1219 to 1220,
-701,the 13th-century,
-702,1267,
-703,1260,
-704,1260,
-705,1291,
-706,1291,
-707,1517,
-708,1266,
-709,1967,
-710,1286,
-711,1306,
-712,1355,
-713,1313,
-714,the next seven years,
-715,1428,
-716,since 1335,
-717,1438,
-718,1455,
-719,nine months,
-720,1470,
-721,1473,
-722,A year later,
-723,two days,
-724,50 years later,
-725,1523,
-726,1481,
-727,A few years later in 1488,
-728,1495,
-729,1492-97,
-730,1517,
-731,the closing years of the 15th century,
-732,the early 16th century,
-733,Twenty-five years earlier,
-734,300 years earlier in 1210,
-735,the beginning of the 17th century,
-736,the beginning of the 16th century,
-737,1517,
-738,1516–17,
-739,the next four centuries,
-740,1517,
-741,1534,
-742,1538,
-743,16th-century,
-744,1577,
-745,1555,
+688,June–July,-1
+689,years,-1
+690,around 1160 and 1180,1160
+691,1165,1165
+692,1141,1141
+693,1187,1187
+694,another century,-1
+695,the day,-1
+696,"1,600 years earlier",-1
+697,1211,1211
+698,the 13th-century,1200
+699,1217,1217
+700,1219 to 1220,1219
+701,the 13th-century,1200
+702,1267,1267
+703,1260,1260
+704,1260,1260
+705,1291,1291
+706,1291,1291
+707,1517,1517
+708,1266,1266
+709,1967,1967
+710,1286,1286
+711,1306,1306
+712,1355,1355
+713,1313,1313
+714,the next seven years,-1
+715,1428,1428
+716,since 1335,1335
+717,1438,1538
+718,1455,1455
+719,nine months,-1
+720,1470,1470
+721,1473,1573
+722,A year later,-1
+723,two days,-1
+724,50 years later,-1
+725,1523,1523
+726,1481,1481
+727,A few years later in 1488,1488
+728,1495,1495
+729,1492-97,1492
+730,1517,1517
+731,the closing years of the 15th century,1466
+732,the early 16th century,1533
+733,Twenty-five years earlier,-1
+734,300 years earlier in 1210,1210
+735,the beginning of the 17th century,1633
+736,the beginning of the 16th century,1533
+737,1517,1517
+738,1516–17,1516
+739,the next four centuries,-1
+740,1517,1517
+741,1534,1534
+742,1538,1538
+743,16th-century,1500
+744,1577,1577
+745,1555,1555
 746,the end of the century,
-747,around 1563,
-748,1564,
-749,the following years,
-750,many years,
-751,1569.In 1567,
-752,1576,
-753,1586,
-754,1569,
-755,1610,
-756,1625 later,
-757,1660,
-758,1662,
-759,The 17th century,
-760,1700,
-761,1720,
-762,1714,
-763,The 18th century,
-764,1740,
-765,1742,
-766,1759,
-767,1777,
-768,1800,
-769,the early 19th century,
+747,around 1563,1563
+748,1564,1564
+749,the following years,-1
+750,many years,-1
+751,1569.In 1567,1567
+752,1576,1576
+753,1586,1586
+754,1569,1569
+755,1610,1610
+756,1625 later,1625
+757,1660,1660
+758,1662,1662
+759,The 17th century,1600
+760,1700,1700
+761,1720,1720
+762,1714,1714
+763,The 18th century,1700
+764,1740,1740
+765,1742,1742
+766,1759,1759
+767,1777,1777
+768,1800,1800
+769,the early 19th century,1833
 770,almost a decade,
-771,1799,
-772,1821,
-773,14 months,
-774,1834,
-775,1834,
-776,1844,
-777,the 19th century,
-778,up to the 1880s,
-779,1837,
-780,the 1850s,
-781,1855,
-782,1860,
-783,1867,
-784,1869,
-785,1875,
-786,the 1870s,
-787,1870,
-788,1878,
-789,the 1870s,
-790,1880,
-791,the 18th and 19th centuries,
-792,the late 19th,
-793,early 20th centuries,
-794,between 1881 and 1903,
-795,1904 to 1914,
-796,1909,
-797,1914,
-798,1917,
-799,1917,
-800,1919,
-801,1917,
-802,1919,
-803,1923,
-804,between 1924 and 1928,
-805,between 1929 and 1939,
-806,1939,
-807,1921,
-808,1936-1939,
-809,1947,
-810,that year,
-811,14 May 1948,
-812,one day,
-813,1948,
-814,1948,
-815,December 1948,
-816,one year,
+771,1799,1799
+772,1821,1821
+773,14 months,-1
+774,1834,1834
+775,1834,1834
+776,1844,1844
+777,the 19th century,1800
+778,up to the 1880s,1885
+779,1837,1837
+780,the 1850s,1855
+781,1855,1855
+782,1860,1860
+783,1867,1867
+784,1869,1969
+785,1875,1875
+786,the 1870s,1875
+787,1870,1870
+788,1878,1878
+789,the 1870s,1875
+790,1880,1880
+791,the 18th and 19th centuries,1700
+792,the late 19th,1866
+793,early 20th centuries,1933
+794,between 1881 and 1903,1881
+795,1904 to 1914,1904
+796,1909,1909
+797,1914,1914
+798,1917,1917
+799,1917,1917
+800,1919,1919
+801,1917,1917
+802,1919,1919
+803,1923,1923
+804,between 1924 and 1928,1924
+805,between 1929 and 1939,1929
+806,1939,1939
+807,1921,1921
+808,1936-1939,1936
+809,1947,1947
+810,that year,-1
+811,14 May 1948,1948
+812,one day,-1
+813,1948,1948
+814,1948,1948
+815,December 1948,1948
+816,one year,-1
 817,the following years,
-818,years,
-819,the early 1990s,
-820,1948,
-821,1956,
-822,1967,
-823,Six-Day War,
-824,1973,
-825,1982,
-826,2006,
-827,the 1980s,
-828,the 1990s,
-829,1947,
-830,the 3rd century,
-831,the 7th century,
-832,the 9th century,
-833,the Middle Ages,
-834,the late 15th centuries,
-835,1912,
-836,the 18th and 19th century,
-837,the later 19th century,
-838,1985,
-839,the later 1980s,
-840,1990,
-841,March 1992,
-842,the 1990s,
-843,1997,
-844,the early years of the 21st century,
-845,2009,
-846,26th century,
-847,the early 1st,
-848,the 4th century,
-849,60 years,
-850,the 7th century,
-851,today,
-852,the 1st century,
-853,the centuries,
-854,395 AD,
-855,4th century AD,
-856,AD 395,
-857,that year,
-858,1054,
-859,1089,
-860,1019,
-861,the 13th century,
-862,Early Middle Ages,
-863,the first decades,
-864,the 6th and 7th centuries,
-865,the late 11th and 12th centuries,
-866,1081,
-867,the end of the 12th century,
-868,1258,
-869,1272,
-870,1274,
-871,1280–1281,
-872,the mid-9th century,
-873,the 10th century,
-874,the Middle Ages,
-875,1043,
-876,around 1078,
-877,1190,
-878,1190,
-879,1204,
-880,the same year,
-881,1235,
-882,1252,
-883,1256,
-884,February 1272,
-885,1271,
-886,21 February 1272,
-887,1272,
-888,1273,
-889,1368,
-890,1371,
-891,the late 14th,
-892,the early 15th century,
-893,1444,
-894,2 March 1444,
+818,years,-1
+819,the early 1990s,1993
+820,1948,1948
+821,1956,1956
+822,1967,1967
+823,Six-Day War,-1
+824,1973,1973
+825,1982,1982
+826,2006,2006
+827,the 1980s,1985
+828,the 1990s,1995
+829,1947,1947
+830,the 3rd century,200
+831,the 7th century,600
+832,the 9th century,800
+833,the Middle Ages,-1
+834,the late 15th centuries,1466
+835,1912,1912
+836,the 18th and 19th century,1700
+837,the later 19th century,1866
+838,1985,1985
+839,the later 1980s,1986
+840,1990,1990
+841,March 1992,1992
+842,the 1990s,1995
+843,1997,1997
+844,the early years of the 21st century,2000
+845,2009,2009
+846,26th century,-2500
+847,the early 1st,-1
+848,the 4th century,300
+849,60 years,-1
+850,the 7th century,600
+851,today,-1
+852,the 1st century,50
+853,the centuries,-1
+854,395 AD,395
+855,4th century AD,300
+856,AD 395,395
+857,that year,-1
+858,1054,1054
+859,1089,1089
+860,1019,1019
+861,the 13th century,1200
+862,Early Middle Ages,-1
+863,the first decades,-1
+864,the 6th and 7th centuries,500
+865,the late 11th and 12th centuries,1066
+866,1081,1081
+867,the end of the 12th century,1166
+868,1258,1258
+869,1272,1272
+870,1274,1274
+871,1280–1281,1280
+872,the mid-9th century,800
+873,the 10th century,900
+874,the Middle Ages,-1
+875,1043,1043
+876,around 1078,1078
+877,1190,1190
+878,1190,1190
+879,1204,1204
+880,the same year,-1
+881,1235,1235
+882,1252,1252
+883,1256,1256
+884,February 1272,1272
+885,1271,1271
+886,21 February 1272,1272
+887,1272,1272
+888,1273,1273
+889,1368,1368
+890,1371,1371
+891,the late 14th,1366
+892,the early 15th century,1433
+893,1444,1444
+894,2 March 1444,1444
 895,25 years,
-896,1443 to 1468,
-897,1450,
-898,1468,
-899,1479,
-900,1385,
-901,1415,
-902,1419,
-903,the end of 1436,
-904,November 1443,
-905,1443 to 1468,
-906,twenty-five years,
-907,1450,
-908,1467,
-909,25 years,
-910,1468,
-911,1479,
-912,1479,
-913,the centuries,
-914,the 19th century,
-915,the early 20th century,
-916,the mid 18th century,
-917,the 18th century,
-918,1757 to 1831,
-919,1788 to 1822,
-920,the 1870s,
-921,the second quarter of the 19th century,
-922,1833–1839,
-923,18 June 1878,
-924,this early period,
-925,August 1878,
-926,1881,
-927,1885,
-928,seven years later,
-929,1899,
-930,1900,
-931,1902,
-932,1912,
-933,between 1908 and 1910,
-934,1910,
-935,1911,
-936,1912,
-937,28 November 1912,
-938,The same day,
+896,1443 to 1468,1443
+897,1450,1450
+898,1468,1468
+899,1479,1479
+900,1385,1385
+901,1415,1415
+902,1419,1419
+903,the end of 1436,1436
+904,November 1443,1443
+905,1443 to 1468,1443
+906,twenty-five years,-1
+907,1450,1450
+908,1467,1467
+909,25 years,-1
+910,1468,1468
+911,1479,1479
+912,1479,1479
+913,the centuries,-1
+914,the 19th century,1800
+915,the early 20th century,1933
+916,the mid 18th century,1750
+917,the 18th century,1700
+918,1757 to 1831,1757
+919,1788 to 1822,1788
+920,the 1870s,1875
+921,the second quarter of the 19th century,1825
+922,1833–1839,1833
+923,18 June 1878,1878
+924,this early period,-1
+925,August 1878,1878
+926,1881,1881
+927,1885,1885
+928,seven years later,-1
+929,1899,1899
+930,1900,1900
+931,1902,1902
+932,1912,1912
+933,between 1908 and 1910,1908
+934,1910,1910
+935,1911,1911
+936,1912,1912
+937,28 November 1912,1912
+938,The same day,-1
 939,more than 500 years earlier,
-940,29 July 1913,
-941,1914,
-942,between 1914 and 1916,
-943,March 1916,
-944,1917,
-945,1919,
-946,November 1921,
-947,21 February 1914,
-948,21 February 1914,
-949,August 1922,
-950,1923,
-951,1912,
-952,3 September 1914,
-953,3 September 1914,
-954,28 February,
-955,late 1914,
-956,April 1915,
-957,September 1918,
-958,2 October 1918,
-959,11 November 1918,
-960,1913,
-961,December 1918,
-962,January 1920,
-963,January 1920,
-964,February 1920,
-965,One month later,
-966,March 1920,
-967,December,
-968,first years,
-969,Between July and December 1921,
-970,December 1921,
-971,early 1922,
-972,the year,
-973,present-day,
-974,early 1924,
-975,June 1924,
-976,16 June 1924,
-977,June,
-978,19 June,
-979,ten to twelve months,
-980,13 December 1924,
-981,Christmas Eve,
-982,just 6 months and a week,
-983,31 January,
-984,seven-year,
-985,1924–1927,
-986,1927,
-987,1991,
-988,1928,
-989,the years,
-990,1931,
-991,1931,
-992,1926,
-993,1932,
-994,1933,
-995,1934,
-996,1935,
-997,1939,
-998,1928,
-999,7 April 1939,
-1000,October 1940,
-1001,December 1940,
-1002,April 1939,
-1003,centuries,
-1004,twenty years,
-1005,1925,
-1006,1926,
-1007,1927,
-1008,1931,
-1009,1934,
-1010,15 March 1939,
-1011,25 March 1939,
-1012,7 April,
-1013,7 April,
-1014,9 April,
-1015,10 April,
-1016,12 April,
-1017,five days,
-1018,3 December 1941,
-1019,October 1940,
-1020,April 1941,
-1021,April 1941,
-1022,May 1941,
-1023,September 1943,
-1024,September 1943,
-1025,December 1943,
-1026,17 November 1944,
-1027,20-day,
-1028,29 November 1944,
-1029,November 1944,
-1030,7 April 1939,
-1031,28 November 1944,
-1032,the 1939–1941 period,
-1033,October 1941,
-1034,1941,
-1035,mid-1942,
-1036,September 1942,
-1037,16 September 1942,
-1038,December 1942,
-1039,November 1942,
-1040,1944,
-1041,January 1944,
-1042,May,
-1043,mid-summer 1944,
-1044,the end of July,
-1045,the end of November,
-1046,October,
-1047,1945,
-1048,years,
-1049,decades,
-1050,centuries-old,
-1051,December 1945,
-1052,January 1946,
-1053,1956,
-1054,1974,
-1055,1978,
-1056,the 1970s,
-1057,the period of 1960 to 1970,
-1058,annual,
-1059,four decades,
-1060,11 April 1985,
-1061,1990,
-1062,March 1991,
-1063,1967,
-1064,year's end,
-1065,1948,
-1066,late 1944,
-1067,1943,
-1068,January 1945,
-1069,1947,
-1070,May,
-1071,A month later,
-1072,1948,
-1073,February 1949,
-1074,1949,
-1075,1951,
-1076,five-year,
-1077,1955,
-1078,1960,
-1079,March 1953,
-1080,July 1953,
-1081,1954,
-1082,December 1953,
-1083,1958,
-1084,May or June 1960,
-1085,February 1961,
-1086,1961,
-1087,1970,
-1088,the early 1970s,
-1089,1971,
-1090,the early 1970s,
-1091,1972,
-1092,1976,
-1093,1980,
-1094,November 1982,
-1095,early 1983,
-1096,two days later,
-1097,1985,
-1098,1991,
-1099,29 April 1991,
-1100,28 November 1998,
-1101,two months later,
-1102,half a year,
-1103,22 March 1992,
-1104,1992,
-1105,Today,
-1106,1995,
-1107,the late 1996s,
-1108,early 1997s,
-1109,the early spring 1997,
-1110,1997,
-1111,Few months later,
-1112,1997,
-1113,October 1998,
-1114,November 1999,
-1115,29 November 1998,
-1116,November 1998,
-1117,October 2000,
-1118,2001,
-1119,31 January 2002,
-1120,June 2005,
-1121,3 July 2005 ended eight years,
-1122,2010,
-1123,2007,
-1124,2000,
-1125,2007,
-1126,23 June 2013,
-1127,2008,
-1128,April 2014,
-1129,June 2014,
-1130,2017,
-1131,19,
-1132,20,
-1133,27,
-1134,28 April 2017,
-1135,25 June 2017,
-1136,April 2021,
-1137,February 2022,
-1138,June 2022,
-1139,24 July 2022,
-1140,19 July 2022,
-1141,6 December,
-1142,1999,
-1143,2010,
-1144,2007,
-1145,978-88-8492-466-7,
-1146,1994,
-1147,1987,
-1148,0472082604,
-1149,2017,
-1150,978-1542565103,
-1151,1952,
-1152,1258092352,
-1153,1984,
-1154,26 August 2022,
-1155,6609,
-1156,251843620,
-1157,2016,
-1158,7 January 2023,
-1159,2016,
-1160,6): 1067–1077,
-1161,2018,
-1162,the 2nd half of the 3rd millennium,
-1163,2015,
-1164,1939-1945,
-1165,2010,
-1166,2015,
-1167,2022,
-1168,2014,
-1169,2008,
-1170,2019,
-1171,2021,
-1172,2020,
-1173,2003,
-1174,2001,
-1175,1992,
-1176,2021,
-1177,the early 8th century AD,
-1178,1.8 million year old,
-1179,1992,
-1180,1954,
-1181,"700,000 years old",
-1182,between 6000 and 2000,
-1183,today,
-1184,second century,
-1185,present-day,
-1186,the 2nd century,
-1187,the 2nd century,
-1188,the end of the 4th century,
-1189,the 8th century,
-1190,The 11th century,
-1191,the 11th century,
-1192,the Fatimid dynasty,
-1193,942-1068,
-1194,the first half of the 11th century,
-1195,the 11th century,
-1196,1054,
-1197,1106,
-1198,1146,
-1199,around 1151,
-1200,1160,
-1201,between 1163 and 1199,
+940,29 July 1913,1913
+941,1914,1914
+942,between 1914 and 1916,1914
+943,March 1916,1916
+944,1917,1917
+945,1919,1919
+946,November 1921,1921
+947,21 February 1914,1914
+948,21 February 1914,1914
+949,August 1922,1922
+950,1923,1923
+951,1912,1912
+952,3 September 1914,1914
+953,3 September 1914,1914
+954,28 February,-1
+955,late 1914,1914
+956,April 1915,1915
+957,September 1918,1918
+958,2 October 1918,1918
+959,11 November 1918,1918
+960,1913,1913
+961,December 1918,1918
+962,January 1920,1920
+963,January 1920,1920
+964,February 1920,1920
+965,One month later,-1
+966,March 1920,1920
+967,December,-1
+968,first years,-1
+969,Between July and December 1921,1921
+970,December 1921,1921
+971,early 1922,1922
+972,the year,-1
+973,present-day,-1
+974,early 1924,1924
+975,June 1924,1924
+976,16 June 1924,1924
+977,June,-1
+978,19 June,-1
+979,ten to twelve months,-1
+980,13 December 1924,1924
+981,Christmas Eve,-1
+982,just 6 months and a week,-1
+983,31 January,-1
+984,seven-year,-1
+985,1924–1927,1924
+986,1927,1927
+987,1991,1991
+988,1928,1928
+989,the years,-1
+990,1931,1931
+991,1931,1931
+992,1926,1926
+993,1932,1932
+994,1933,1933
+995,1934,1934
+996,1935,1935
+997,1939,1939
+998,1928,1928
+999,7 April 1939,1939
+1000,October 1940,1940
+1001,December 1940,1940
+1002,April 1939,1930
+1003,centuries,-1
+1004,twenty years,-1
+1005,1925,1925
+1006,1926,1926
+1007,1927,1927
+1008,1931,1931
+1009,1934,1934
+1010,15 March 1939,1939
+1011,25 March 1939,1939
+1012,7 April,-1
+1013,7 April,-1
+1014,9 April,-1
+1015,10 April,-1
+1016,12 April,-1
+1017,five days,-1
+1018,3 December 1941,1941
+1019,October 1940,1940
+1020,April 1941,1941
+1021,April 1941,1941
+1022,May 1941,1941
+1023,September 1943,1943
+1024,September 1943,1943
+1025,December 1943,1943
+1026,17 November 1944,1944
+1027,20-day,-1
+1028,29 November 1944,1944
+1029,November 1944,1944
+1030,7 April 1939,1939
+1031,28 November 1944,1944
+1032,the 1939–1941 period,1939
+1033,October 1941,1941
+1034,1941,1941
+1035,mid-1942,1942
+1036,September 1942,1942
+1037,16 September 1942,1942
+1038,December 1942,1942
+1039,November 1942,1942
+1040,1944,1944
+1041,January 1944,1944
+1042,May,-1
+1043,mid-summer 1944,1944
+1044,the end of July,-1
+1045,the end of November,-1
+1046,October,-1
+1047,1945,1945
+1048,years,-1
+1049,decades,-1
+1050,centuries-old,-1
+1051,December 1945,1945
+1052,January 1946,1946
+1053,1956,1956
+1054,1974,1974
+1055,1978,1978
+1056,the 1970s,1975
+1057,the period of 1960 to 1970,1960
+1058,annual,-1
+1059,four decades,-1
+1060,11 April 1985,1985
+1061,1990,1990
+1062,March 1991,1991
+1063,1967,1967
+1064,year's end,-1
+1065,1948,1948
+1066,late 1944,1944
+1067,1943,1943
+1068,January 1945,1945
+1069,1947,1947
+1070,May,-1
+1071,A month later,-1
+1072,1948,1948
+1073,February 1949,1949
+1074,1949,1949
+1075,1951,1951
+1076,five-year,-1
+1077,1955,1955
+1078,1960,1960
+1079,March 1953,1953
+1080,July 1953,1953
+1081,1954,1954
+1082,December 1953,1953
+1083,1958,1958
+1084,May or June 1960,1960
+1085,February 1961,1961
+1086,1961,1961
+1087,1970,1970
+1088,the early 1970s,1973
+1089,1971,1971
+1090,the early 1970s,1973
+1091,1972,1972
+1092,1976,1976
+1093,1980,1980
+1094,November 1982,1982
+1095,early 1983,1983
+1096,two days later,-1
+1097,1985,1985
+1098,1991,1991
+1099,29 April 1991,1991
+1100,28 November 1998,1998
+1101,two months later,-1
+1102,half a year,-1
+1103,22 March 1992,1992
+1104,1992,1992
+1105,Today,-1
+1106,1995,1995
+1107,the late 1996s,1996
+1108,early 1997s,1997
+1109,the early spring 1997,1997
+1110,1997,1997
+1111,Few months later,-1
+1112,1997,1997
+1113,October 1998,1998
+1114,November 1999,1999
+1115,29 November 1998,1998
+1116,November 1998,1998
+1117,October 2000,2000
+1118,2001,2001
+1119,31 January 2002,2002
+1120,June 2005,2005
+1121,3 July 2005 ended eight years,2005
+1122,2010,2010
+1123,2007,2007
+1124,2000,2000
+1125,2007,2007
+1126,23 June 2013,2013
+1127,2008,2008
+1128,April 2014,2014
+1129,June 2014,2014
+1130,2017,2017
+1131,19,19
+1132,20,20
+1133,27,27
+1134,28 April 2017,2017
+1135,25 June 2017,2017
+1136,April 2021,2021
+1137,February 2022,2022
+1138,June 2022,2022
+1139,24 July 2022,2022
+1140,19 July 2022,2022
+1141,6 December,-1
+1142,1999,1999
+1143,2010,2010
+1144,2007,2007
+1145,978-88-8492-466-7,-1
+1146,1994,1994
+1147,1987,1987
+1148,0472082604,-1
+1149,2017,2017
+1150,978-1542565103,-1
+1151,1952,1952
+1152,1258092352,-1
+1153,1984,1984
+1154,26 August 2022,2022
+1155,6609,-1
+1156,251843620,-1
+1157,2016,2016
+1158,7 January 2023,2023
+1159,2016,2016
+1160,6): 1067–1077,1067
+1161,2018,2018
+1162,the 2nd half of the 3rd millennium,2500
+1163,2015,2015
+1164,1939-1945,1939
+1165,2010,2010
+1166,2015,2015
+1167,2022,2022
+1168,2014,2014
+1169,2008,2008
+1170,2019,2019
+1171,2021,2021
+1172,2020,2020
+1173,2003,2003
+1174,2001,2001
+1175,1992,1992
+1176,2021,2021
+1177,the early 8th century AD,733
+1178,1.8 million year old,-1
+1179,1992,1992
+1180,1954,1954
+1181,"700,000 years old",-1
+1182,between 6000 and 2000,-1
+1183,today,-1
+1184,second century,100
+1185,present-day,-1
+1186,the 2nd century,100
+1187,the 2nd century,100
+1188,the end of the 4th century,366
+1189,the 8th century,700
+1190,The 11th century,1000
+1191,the 11th century,1000
+1192,the Fatimid dynasty,-1
+1193,942-1068,942
+1194,the first half of the 11th century,1050
+1195,the 11th century,1000
+1196,1054,1054
+1197,1106,1106
+1198,1146,1146
+1199,around 1151,1151
+1200,1160,1160
+1201,between 1163 and 1199,1163
 1202,more than 300 years,
-1203,the 16th century,
-1204,the 12th century,
-1205,Around 1120,
-1206,1147,
-1207,1159,
-1208,1212,
-1209,decades,
-1210,1236,
-1211,1248,
-1212,1215,
-1213,1269,
-1214,1117,
-1215,1120,
-1216,the end of Ramadan,
-1217,late 1121,
-1218,1122,
-1219,1124,
-1220,the first eight years,
-1221,1132,
-1222,early 1130,
-1223,forty days,
-1224,April,
-1225,May) 1130,
-1226,August 1130,
-1227,three years,
-1228,1132,
-1229,Three years,
-1230,Between 1130,
-1231,1163,
-1232,1147,
-1233,Between 1146 and 1173,
-1234,1184,
-1235,1190–1191,
-1236,1189,
-1237,1195,
-1238,years,
-1239,1212,
-1240,1213,
-1241,ten-year-old,
-1242,next fifteen years,
-1243,1217,
-1244,early 1224,
-1245,today,
-1246,the end of the 10th century,
-1247,the first half of the 11th century,
-1248,the 7th century,
-1249,the 8th century,
-1250,the 10th century,
-1251,three unsuccessful months,
-1252,13 October 998,
-1253,the Idrisid dynasty,
-1254,1001,
-1255,1039,
-1256,1060,
-1257,1070,
-1258,the mid 11th century,
+1203,the 16th century,1500
+1204,the 12th century,110
+1205,Around 1120,1120
+1206,1147,1147
+1207,1159,1159
+1208,1212,1212
+1209,decades,-1
+1210,1236,1236
+1211,1248,1248
+1212,1215,1215
+1213,1269,1269
+1214,1117,1117
+1215,1120,1120
+1216,the end of Ramadan,-1
+1217,late 1121,1121
+1218,1122,1122
+1219,1124,1124
+1220,the first eight years,-1
+1221,1132,1132
+1222,early 1130,1130
+1223,forty days,-1
+1224,April,-1
+1225,May) 1130,1130
+1226,August 1130,1130
+1227,three years,-1
+1228,1132,1132
+1229,Three years,-1
+1230,Between 1130,1130
+1231,1163,1163
+1232,1147,1147
+1233,Between 1146 and 1173,1146
+1234,1184,1184
+1235,1190–1191,1190
+1236,1189,1189
+1237,1195,1195
+1238,years,-1
+1239,1212,1212
+1240,1213,1213
+1241,ten-year-old,-1
+1242,next fifteen years,-1
+1243,1217,1217
+1244,early 1224,1224
+1245,today,-1
+1246,the end of the 10th century,966
+1247,the first half of the 11th century,1025
+1248,the 7th century,600
+1249,the 8th century,700
+1250,the 10th century,900
+1251,three unsuccessful months,-1
+1252,13 October 998,998
+1253,the Idrisid dynasty,-1
+1254,1001,1001
+1255,1039,1039
+1256,1060,1060
+1257,1070,1070
+1258,the mid 11th century,1050
 1259,the dynasty,
-1260,the mid-11th century,
-1261,present-day,
-1262,1013,
-1263,1015,
-1264,between 1048 and 1148,
-1265,1057,
-1266,the 11th century,
-1267,the dynasty,
-1268,1090,
-1269,between 1041 and 1051,
-1270,the 12th century,
-1271,1148,
-1272,1160,
-1273,the 10th century,
-1274,today,
-1275,present-day,
-1276,present-day,
-1277,1013.After 1001,
-1278,1147,
-1279,1009,
-1280,1008,
-1281,1015,
-1282,1016,
-1283,1017,
-1284,present-day,
-1285,the eleventh century,
-1286,the dynasty,
-1287,1016 thousands,
-1288,1049,
-1289,the 11th century,
-1290,1025,
-1291,1021,
-1292,1036,
-1293,1038,
-1294,1038,
-1295,the second half of the 11th century,
-1296,1048-49,
-1297,between 1041 and 1051,
-1298,14 April 1052,
-1299,1057,
-1300,1059-1095,
+1260,the mid-11th century,1050
+1261,present-day,-1
+1262,1013,1013
+1263,1015,1015
+1264,between 1048 and 1148,1048
+1265,1057,1057
+1266,the 11th century,1000
+1267,the dynasty,-1
+1268,1090,1090
+1269,between 1041 and 1051,1041
+1270,the 12th century,1100
+1271,1148,1148
+1272,1160,1160
+1273,the 10th century,900
+1274,today,-1
+1275,present-day,-1
+1276,present-day,-1
+1277,1013.After 1001,1001
+1278,1147,1147
+1279,1009,1009
+1280,1008,1008
+1281,1015,1015
+1282,1016,1016
+1283,1017,1017
+1284,present-day,-1
+1285,the eleventh century, 1000
+1286,the dynasty,-1
+1287,1016 thousands,-1
+1288,1049,1049
+1289,the 11th century,1000
+1290,1025,1025
+1291,1021,1021
+1292,1036,1036
+1293,1038,1038
+1294,1038,1038
+1295,the second half of the 11th century,1075
+1296,1048-49,1048
+1297,between 1041 and 1051,1041
+1298,14 April 1052,1052
+1299,1057,1057
+1300,1059-1095,1059
 1301,1062,
 1302,1063,
 1303,1062-1088,
